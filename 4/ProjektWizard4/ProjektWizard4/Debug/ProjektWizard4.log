@@ -1,0 +1,8 @@
+﻿  dllmain3.cpp
+  fabryka3.cpp
+  guid3.cpp
+  klasa3.cpp
+  Generating Code...
+     Creating library C:\Users\48571\OneDrive\Pulpit\COMLab1\COMLab1\4\ProjektWizard4\Debug\ProjektWizard4.lib and object C:\Users\48571\OneDrive\Pulpit\COMLab1\COMLab1\4\ProjektWizard4\Debug\ProjektWizard4.exp
+ProjektWizard4.exp : warning LNK4070: /OUT:klasa3.dll directive in .EXP differs from output filename 'C:\Users\48571\OneDrive\Pulpit\COMLab1\COMLab1\4\ProjektWizard4\Debug\ProjektWizard4.dll'; ignoring directive
+  ProjektWizard4.vcxproj -> C:\Users\48571\OneDrive\Pulpit\COMLab1\COMLab1\4\ProjektWizard4\Debug\ProjektWizard4.dll
